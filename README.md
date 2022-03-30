@@ -18,11 +18,11 @@ Anecdotal evidence is showing that the metaverse is having a harmful impact on p
 | VR Chat | Children exposed to grooming, sexual material, racist insults and a rape threats | [BBC](https://www.bbc.com/news/technology-60415317) |
 
 ## Roblox 
-| Ill-effect | Date | Research source |
-|:---|:---|:---|
-||||
+| Ill-effect | Research source |
+|:---|:---|
+| Children exposed to sexual encounters  |[BBC](https://www.bbc.com/news/technology-60314572)|
 
-https://www.bbc.com/news/technology-60314572
+
 
 ## Youtube
 | Ill-effect | Date | Research source |
