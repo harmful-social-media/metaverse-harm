@@ -7,7 +7,7 @@ Anecdotal evidence is showing that the metaverse is having a hamrful impact on p
 | Ill-effect | Date | Research source |
 |:---|:---|:---|
 | Sexual Assault | 20 March 2022 | [Vogue](https://www.vogue.co.uk/arts-and-lifestyle/article/sexual-assault-in-the-metaverse)  | 
-| Harassment | 21 February 2022 | [Bloomberg](https://www.bloomberg.com/opinion/articles/2022-02-21/metaverse-harassment-doesn-t-bode-well-for-zuckerberg-s-vr-dreams) |
+| Harassment | 21 February 2022 | [Bloomberg](https://www.bloomberg.com/opinion/articles/2022-02-21/metaverse-harassment-doesn-t-bode-well-for-zuckerberg-s-vr-dreams)| | Gang Rape | Dec 21 2021 | [Medium](https://medium.com/kabuni/fiction-vs-non-fiction-98aa0098f3b0)|
 
 
 ## Apps in Facebook Metaverse VR store
