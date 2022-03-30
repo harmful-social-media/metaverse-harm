@@ -1,6 +1,6 @@
 # Social media metaverse ill-effects 
 
-Anecdotal evidence is showing that the metaverse is having a hamrful impact on people.
+Anecdotal evidence is showing that the metaverse is having a harmful impact on people.
 
 ## Meta / Facebook
 
