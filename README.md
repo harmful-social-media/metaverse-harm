@@ -7,7 +7,7 @@ Anecdotal evidence is showing that the metaverse is having a hamrful impact on p
 | Ill-effect | Date | Research source |
 |:---|:---|:---|
 | Sexual Assault | 20 March 2022 | [Vogue](https://www.vogue.co.uk/arts-and-lifestyle/article/sexual-assault-in-the-metaverse)  | 
-| | | |
+| Harassment | 21 February 2022 | [Bloomberg](https://www.bloomberg.com/opinion/articles/2022-02-21/metaverse-harassment-doesn-t-bode-well-for-zuckerberg-s-vr-dreams) |
 
 
 ## Apps in Facebook Metaverse VR store
@@ -15,11 +15,12 @@ Anecdotal evidence is showing that the metaverse is having a hamrful impact on p
 |:---|:---|:---|
 | VR Chat | Children exposed to grooming, sexual material, racist insults and a rape threats | [BBC](https://www.bbc.com/news/technology-60415317) |
 
-## TikTok
+## Roblox 
 | Ill-effect | Date | Research source |
 |:---|:---|:---|
 ||||
 
+https://www.bbc.com/news/technology-60314572
 
 ## Youtube
 | Ill-effect | Date | Research source |
