@@ -10,10 +10,10 @@ Anecdotal evidence is showing that the metaverse is having a hamrful impact on p
 | | | |
 
 
-## Instagram
-| Ill-effect | Date | Research source |
+## Apps in Facebook Metaverse VR store
+| App Name | Ill-effect | Research source |
 |:---|:---|:---|
-||||
+| VR Chat | Children exposed to grooming, sexual material, racist insults and a rape threats | [BBC] (https://www.bbc.com/news/technology-60415317) 
 
 ## TikTok
 | Ill-effect | Date | Research source |
